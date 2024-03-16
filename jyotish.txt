@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+<
     Hello Demo
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto doloribus recusandae illo obcaecati dolorum delectus, omnis est deleniti amet harum debitis dignissimos aut quod error ducimus rerum excepturi, blanditiis labore.
     Harum, esse error facere odit aliquid consequatur accusantium, laboriosam ex nisi numquam nostrum nihil ad. Laboriosam amet expedita illo sapiente eum nulla temporibus! Tenetur neque voluptates quibusdam? Eos, ratione sapiente?
